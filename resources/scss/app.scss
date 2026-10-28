@@ -1,0 +1,19 @@
+// Fonts
+@import "@fontsource/plus-jakarta-sans/latin.css";
+@import "@fontsource/inter/latin.css";
+
+// Icons
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+// Evergreen Campus Brand Colors
+$primary: #0E8A4F;
+$info: #0E7490;
+$warning: #D97706;
+$danger: #DC2626;
+$success: #12B76A;
+$secondary: #667085;
+$dark: #101828;
+$light: #F9FAFB;
+
+// Import Bootstrap
+@import "bootstrap/scss/bootstrap";
